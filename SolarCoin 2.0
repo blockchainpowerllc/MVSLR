@@ -1,0 +1,60 @@
+SolarCoin – Blockchain Incentives for Utility Scale and C&I Photovoltaic System Asset Owners and Operators
+
+I. Overview
+
+Utility-scale solar energy is now the cheapest form of new energy generation in human history. The solar industry is growing exponentially, driven by declining costs of installation, increased demand for carbon-free electricity, and public/private investment in renewable energy. 
+
+Solar operations and maintenance (“O&M”) is the largest ongoing cost for PV asset owners. Solar power plants are expected to consistently generate electricity 365 days of the year for 20-25 years. straight. This requires a tremendous amount of work, including boots-on-the-ground emergency dispatch and maintenance, vegetation management, asset management, and 24/7 remote control and alarm monitoring.
+
+Solar plant O&M all-in costs are usually between $5.00 - $9.00 USD, depending on climate, system engineering, and logistics. In addition to normal ongoing maintenance, solar PV assets face equipment faults, supply chain constraints, manufacturers going out of business, grid reliability and stability issues, and natural disasters like hurricanes, fires, and hail. These risks are managed by PV asset owners and solar financiers through insurance, yearly budgets, and strategic O&M. 
+
+II.  SolarCoin Overview and Blockchain Incentives 
+
+SolarCoin (“SLR”) is a digital token that rewards solar asset owners for installed-solar capacity. The SolarCoin Foundation (“SCF”) rewards 1 SLR token for each 1 MWh produced solar energy. Built on the Proof-of-Validation software, SolarCoin operates on one of the most carbon-free blockchains in the world called energy web; however, this ecosystem has very low adoption outside of Europe.. 
+
+This project founders (residing in Europe and Asia) are for the most part inactive, and while the ecosystem is appreciated by many solar adherents/early adopters, it has very low utilization. Therefore, by expanding the token utility beyond simply assuming a “network effect” by more people using, solar, and relying heavily on residential adoption,  there exists a substantial opportunity.  presents unique For example, in the opportunities for the utility-scale solar industry the token could asset with  such as cost offsetting, transparent transactions, and cause solar PV O&M “gamification”. 
+
+The SLR system relies heavily on SCF “Affiliates”. Affiliates refer prospective customers to SCF, and have the option of taking kwh reading from the customers’ inverters. Affiliates are also given the option to file a claim from SLR on behalf of the customers without the claims being issued on-chain and charge up to five percent (5%) for this service, with such commission being deducted from the customers SLR allocation.   
+
+More specifically, Tthere are several use-cases for SolarCoin coin to have immediate impact for utility-scale solar asset owners:
+
+A. Solar Repowering / Insurance Funds
+
+Solar plant repowering is the process of removing old PV equipment and replacing it with new. According to kWh Analytics Solar Risk Report, 40% of inverter OEMs installed at solar facilities built in 2018 are out of business. This can decrease system availability by 10-25%. Extreme weather can also damage systems extensively – sometimes wreck havoc burningn systems to the ground or blowing modules off of racking, all impacting the cash flow projects initially modeled for the solar plant.  
+
+SolarCcoin can give solar asset owners reserve funding for repowering underperforming power plants, restoring facilities post-extreme weather damage (as noted above), and providing a financial buffer for support unexpected issues such as abandoned inverters. SLR can also be used to supplement revenue losses due to off-line or unavailable components or be used for general infrastructure improvements to drive increased up-time and performance. 
+
+B. Offsetting Solar Plant O&M Ongoing Costs (Reducing Opex)
+
+Solar O&M is the largest fixed cost for asset owners once a power plant is built. For example, a 100 MW solar asset O&M costs for preventive and corrective maintenance, landscaping, monitoring and asset management range anywhere from $500,000 to $900,000 per year. 
+
+The same 100 MW solar array generating energy is estimated to produce between 220,000 to 300,000 MWh of electricity. Below is the value in SLR and USD and various thresholds:
+
+SLR @ $0.005 = ~$1,300
+SLR @ $0.01 = ~$2,600
+SLR @ $0.25 = ~$65,000
+SLR @ $1.00 = ~$260,000
+SLR @ $5.00 = ~$1,300,000
+
+Solar asset owners could quickly be allocated SLR are able to allocate SLR towards O&M budgets, thus allowing for higher individual and portfolio-level Return on Investment OIand more funds to allocate to new projects. SolarCcoin can also be used to purchase additional spare parts for reserve inventory, pay for solar plantsystem  optimization/ and performance engineering, as well as used to pay a premium for safe, high-quality workmanship. 
+
+C “Gamify” Solar Plant O&M
+
+“Gamification” is the application of game design elements in non-gaming contexts. It commonly uses these elements to improve involvement (leading to achievement of objectives) of users and can be used as a proven tool capable of increasing efficiency within an interactive environment. 
+
+Within the solar O&M ecosystem, there are many “players” working to ensure solar PV power plants are online and producing; these include asset owners, technicians, remote operators, subcontractors, engineers, etc. Below are examples of how SolarCoin can help facilitate gamification within solar O&M.
+
+Education / Training: SolarCoin can incentivize industry professionals to receive additional training or provide blockchain-based certificates. 
+Inspiration / Design: SLR can be used to encourage new ideas through open-source competition or engineering challenges.
+Crowdsourcing: SLR can promote collaborative development activities including: crowdprocessing, the participation in collaborative processes aimed at solving a process / problem; crowdrating: collaborative construction of service and solar asset ratings; crowdcreating: collaborative construction of contents and software. Crowdsourcing can be incentivized by stimulating and quantifying the effort of contributors.
+Work and Productivity: Solar O&M providers can receive incentives when assets are producing and retaining high availability. Service records can be stored and available through the public ledger.
+Power plant health: Health, Environmental, and Safety records can be tracked and best performers publicly acknowledged. 
+Crowdfunding: SolarCoin gamification techniques can be implemented to promote additional investments and lead investors to build differentiated portfolios within the solar ecosystem. 
+
+III. Challenges
+
+The biggest challenge to this project is SolarCoin adoption. Solar asset owners anywhere in the world, large or small, are able to register their assets through the SolarCoin Foundation. This said, there are currently very little assets registered, and a small fraction of minted SLR tokens available for trade and use. Increasing awareness and participation within the SolarCoin economy will be critical to this project’s success. 
+
+IV. Solution
+
+Metaverse Solar bridges the gap between virutal and real-world solar assets. The team will catalyze the SolarCoin economy by building a one-way bridge from Energy Web Chain (where SLR currently sits) to Hedera Hasgraph using HTS to mint wrapped SLR = hSLR. Metaverse Solar will then use hSLR as its in-game currency and will create MVSLR as 1x hSLR = 1000x MVSLR similar to Bitcoin and "Satoshi" currency denominations. We intend to drive widespread user awareness, interest, and enthusiasm around solar energy through the world's first solar gaming studio powered by Hedera Hashgraph and the SolarCoin Protocol. 
