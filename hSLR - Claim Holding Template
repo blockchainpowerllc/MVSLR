@@ -1,0 +1,45 @@
+Hello,
+SolarCoin is pleased to announce a new ongoing claim holding program for solar monitoring
+and utility platforms and their customers. This service provides an SLR income stream for
+platforms and a convenient, zero-risk service for their customers.
+
+While many claimants are comfortable with cryptocurrency and are interested in receiving their
+SolarCoin directly, the process of managing wallets and cryptographic keys is still a significant
+hurdle.
+
+In order to enable as many solar producers as possible to participate in the program, the
+SolarCoin Foundation has created a process for Affiliates to offer a claim reservation service to
+claimants without requiring a wallet address.
+
+The claim is reviewed and approved or rejected in an identical manner to those with wallet
+addresses. During grant payment, however, grants are not issued on the blockchain, but
+accrued to the claimant's account.
+
+The balance information is tracked by the SolarCoin Foundation and is available to query in a
+machine-readable format by the Affiliate, but as the Affiliate maintains the client relationship, it is
+responsible for providing this balance information to the claimant. In exchange for providing this
+service, the Affiliate may receive a service fee from the claimant of up to five (5) percent of each
+grant, determined at the time of MOU signing.
+
+1. Affiliates must provide, upon request, balance information to claimants.
+
+2. Affiliates may choose to cache balance data or query the SolarCoin Foundation-provided
+API at time of request.
+
+3. Failing to protect the API keys, prevent denial-of-service attacks, keep claimant data
+secure, or other security breaches may be grounds to terminate the MOU at the
+SolarCoin Foundation&#39;s sole discretion.
+
+4. The Affiliate must inform claimants that, at any time, the claimant may provide a wallet
+address. Upon receipt the Affiliate must, in a timely manner, provide that address to the
+SolarCoin. At this time, the accrued balance will be transferred to the claimant and all
+future claims will be issued to this wallet address. The Affiliate will no longer receive any
+service fees for this claimant.
+
+5. The service fee will be deducted from grants at time of issuance and either accrued on
+behalf of the Affiliate or sent to a wallet address of the Affiliate's choosing.
+
+Let us know if you are interested in offering this program to your customers.
+
+Best,
+Team SolarCoin
