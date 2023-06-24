@@ -4,20 +4,20 @@ Metaverse Solar "Beyond Blockchain" Hackathon submission
 
 Project Name: Metaverse Solar 
 
-Project Summary: Metavese Solar (MVSLR) is the world's first solar gaming studio and is built on Hedera Hashgraph and SolarCoin (SLR) Protocol technology. Metaverse Solar is a cutting edge, “game-as-a-service” that leverages Virtual Solar Facilities (VSF) and a network of renewable energy enthusiasts, home renovation experts, solar installers, equipment providers, maintenance companies and even financing companies can interact with each other - and provide valuable services through an interactive social network. The native-token is wrapped SolarCoin, or hSLR, that is created through a one-way bridge from Ethereum-based Energy Web Chain (SLR's native network) to Hedera using HTS. Metaverse Solar users will be able to earn hSLR in-game as MVSLR, where 1x hSLR = 1,000x MVSLR; similar to the Bitcoin and smaller-denomination Satoshi relationship. 
+Project Summary: Metaverse Solar (MVSLR) is the world's first solar gaming studio and is built on Hedera Hashgraph and SolarCoin (SLR) Protocol technology. Metaverse Solar is a cutting edge, “game-as-a-service” that leverages Virtual Solar Facilities (VSF) and a network of renewable energy enthusiasts, home renovation experts, solar installers, equipment providers, maintenance companies and even solar lenders can interact with each other - and provide valuable services through an interactive social network. The native-token is wrapped SolarCoin, or hSLR, that is created through a one-way bridge from Ethereum-based Energy Web Chain (SLR's native network) to Hedera using HTS. Metaverse Solar users will be able to earn hSLR in-game as MVSLR, where 1x hSLR = 1,000x MVSLR; similar to the Bitcoin and smaller-denomination Satoshi relationship.
 
 For reference, the SolarCoin Foundation has minted 98 Billion SolarCoins on EWC - this amount reflects 40 years of estimated solar energy production from 2010 to 2050.
 
-The Metaverse Solar hSLR bridge Smart Contract only has 15 Billion hSLR available for minting - this amount reflects 5 years of estimated solar energy production from 2023 - 2028. 
+The Metaverse Solar hSLR bridge Smart Contract only has 15 Billion hSLR available for minting - this amount reflects 5 years of estimated solar energy production from 2023 - 2028.
 
-Problems:
+Key Problems Solved by Metaverse Solar:
 
 1. The gaming industry lacks games focused on, or otherwise incorporating, renewable energy.
-2. Accessing reliable solar services & financing is difficult + inconvenient.
-3. Installers and maintenance firms rely heavily on door knocking and social media advertising.
-4. There are limited opportunities for the younger generation to participate in ESG initiatives.
-5. Disinformation about solar energy is still prevalent.
-6. Despite once being a top-10 token, SolarCoin has not had wide user-adoption
+2. Accessing reliable solar services, such as installers and industry experts, as well as financing is difficult and inconvenient.
+3. Installers and maintenance firms rely heavily on door knocking and social media advertising. Lenders and insurance providers have equally limited access to an expanded customer base.
+4. There are limited opportunities for the younger generation to participate in ESG initiatives - and the carbon/renewable energy credit market is crowded, yet seldom understood or accessible outside of institutional investors.
+5. Inaccurate or incomplete information about the solar industry ecosystem is still prevalent.
+6. Despite once being a top-10 token, SolarCoin has not had wide user-adoption.
 
 Team:
 1. Noel Myers
@@ -28,8 +28,18 @@ Team:
 
 Hedera Technology:
 
-Our 
+Our tech stack consists of: Hedera, Bundlr (Arweave), Blade Wallet; Unity 3D, Blender, Maya, Substance, Figma, Photoshop, Unreal Engine 5, Illustrator.  
 
-Tech Stack:
+For the Metaverse Solar hSLR bridge: The frontend is REACT js and the backend is Springboot Java REST API with Hedera calls to the Bridge Smart Contract. 
 
+The hSLR token and smart contract are deployed from Utility code. Solidity source is included in the backend repository.
 
+The Metaverse Solar project is the network effect component of a larger data-centric project that the team is building currently through an OCEAN Protocol Shipyard grant with a subsidiary called Blockchain Power, LLC.  This project, called SunDAO, aims to be a data hub with intuitive UI/UX that will allow a broad consortium of institutional solar industry ecosystem participants to leverage actionable data (and not just hardware data pulled from inverters or SCADA systems). Such data, which is complementary to data used by many carbon credit projects, will be immediately useful to the institutional solar industry and intended to have the effect of directly reducing the CapEx and OpEx of owning and operating utility scale solar systems, as well as portfolios of residential and community scale solar assets. Similar to Metaverse Solar, this project leverages our network of financing partners and insurance providers, as well as a prominent web3 based credit evaluation company.
+
+During the Hackathon, we made significant improvements to our project:
+- Onbaorded Chief Innovation Officer (Jenn G.) and summer Research Analyst (Nate M.)
+- Began building the Metaverse Solar hSLR bridge = 98% coded and approximately 50% tested on Ethereum / RUN network. Still need to complete testing and deploy on mainnet for SolarCoin.
+- Established partnership with SolarCoin Foundation
+- Improved initial Virtual Solar Facility MVP, secured 4 more VSF MVP templates
+- Began engaging with developers to build Metaverse Solar Alpha game
+- Applied for and selected finalists for Open Campus - Global Education Fund for "Solar Energy at Home and in our Communities" on Metaverse Solar platform
